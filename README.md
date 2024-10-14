@@ -1,6 +1,6 @@
 # BrainStroke_Prediction_using_Machine_Learning
 
-# Brain Stroke Prediction Web Application
+## Brain Stroke Prediction Web Application
 
 This is a Flask-based web application for predicting the risk of brain stroke using machine learning models. It leverages patient health data such as age, BMI, average glucose level, and other relevant features to estimate the likelihood of a stroke.
 
