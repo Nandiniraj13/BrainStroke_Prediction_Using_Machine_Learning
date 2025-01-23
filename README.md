@@ -83,9 +83,4 @@ The dataset used for training the machine learning model was sourced from [Kaggl
 - Provide personalized lifestyle recommendations based on stroke risk.
 - Explore additional machine learning algorithms for higher accuracy.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
